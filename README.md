@@ -2,7 +2,7 @@
 
 ## Citations
 
-1. Teorell, Jan, Aksel Sundström, Sören Holmberg, Bo Rothstein, Natalia Alvarado Pachon, Cem Mert Dalli, Rafael Lopez Valverde, Victor Saidi Phiri & Lauren Gerber. 2025. The Quality of Government Standard Dataset, version Jan25. University of Gothenburg: The Quality of Government Institute, https://doi.org/10.18157/qogstdjan24  
+1. Teorell, Jan, Aksel Sundström, Sören Holmberg, Bo Rothstein, Natalia Alvarado Pachon, Cem Mert Dalli, Rafael Lopez Valverde, Victor Saidi Phiri & Lauren Gerber. 2025. The Quality of Government Standard Dataset, version Jan25. University of Gothenburg: The Quality of Government Institute, https://doi.org/10.18157/qogstdjan25  
 
 
 3. Dahlberg, Stefan, Aksel Sundström, Sören Holmberg, Bo Rothstein, Natalia Alvarado Pachon, Cem Mert Dalli, Rafael Lopez Valverde, Victor Saidi Phiri & Lauren Gerber. 2025. The Quality of Government Basic Dataset, Version Jan25. University of Gothenburg: The Quality of Government Institute, [https://www.gu.se/en/quality-government doi:10.18157/qogbasjan25](https://www.gu.se/en/quality-government doi:10.18157/qogbasjan25)
